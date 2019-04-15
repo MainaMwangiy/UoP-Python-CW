@@ -3,7 +3,7 @@ Python3 coursework as part of my BSc Computer Science degree.
 
 TASK: 
 
-  Your  task  is  to  write  a  program  to  display  patchwork  samples,  an  example  of  which  isillustrated below.  The actual patchworks your program will display will depend on your student number and on the user’s inputs.
+  Your  task  is  to  write  a  program  to  display  patchwork  samples,  an  example  of  which  is illustrated below. The actual patchworks your program will display will depend on your student number and on the user’s inputs.
 
   A patchwork sample is made up of patches of two different designs and three colours. Patchworks are square and can be of three different sizes: 5×5,7×7 and 9×9.
 
