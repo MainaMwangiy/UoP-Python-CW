@@ -16,8 +16,8 @@ TASK:
 REQUIREMENTS:
 
 Your program should begin by prompting the user, using a text (shell)-based interface, to enter:
-  - The patchwork size (i.e. the common width & height in terms of patches);
-   -The desired three colours (which your program should ensure are all different);
+  - The patchwork size (i.e. the common width & height in terms of patches)
+   -The desired three colours (which your program should ensure are all different)
 
 The program’s user interface should be easy to use, friendly and robust; e.g. on entering in-valid data, the user should be given appropriate feedback and re-prompted until the entered data is valid.  (Valid sizes are 5, 7 and 9, and valid colours are red, green, blue, magenta, orange and pink.)  Once these details have been entered, the patchwork sample should be drawn in a graphics window of the appropriate size.
 
